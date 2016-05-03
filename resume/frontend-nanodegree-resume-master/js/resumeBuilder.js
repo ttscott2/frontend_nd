@@ -1,0 +1,1 @@
+$("#main").append("Tim Scott");
